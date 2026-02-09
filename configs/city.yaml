@@ -1,0 +1,5 @@
+city: example_city
+crs: UTM
+tile_size_m: 512
+resolution_m: 2
+slab_heights: [3, 10, 30, 100]
