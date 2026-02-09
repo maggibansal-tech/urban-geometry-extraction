@@ -1,3 +1,3 @@
-# Paper B – City Geometry Inference Pipeline
+#  City Geometry Inference Pipeline
 
-VoxCity-independent 2.5D urban geometry pipeline.
+2.5D urban geometry pipeline.
